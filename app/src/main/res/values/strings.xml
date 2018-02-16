@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">M5-SI3904-37-NURCAHYADI</string>
+
+    <string-array name="matauang">
+        <item>USD</item>
+        <item>IDR</item>
+    </string-array>
+</resources>
